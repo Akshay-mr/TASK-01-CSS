@@ -1,0 +1,39 @@
+.box1
+{
+	background-color: #42f5ec;
+	height: 1000px;
+}
+.col1
+{
+	float: left;
+	margin-left: 50px;
+}
+.col2
+{
+	float: left;
+	margin-left: 100px;
+	border-left: 6px solid yellow;
+	border-right: 6px solid yellow;
+}
+.col3
+{
+	float: left;
+	margin-left: 100px;
+	border-left: 6px solid yellow;
+	border-right: 6px solid yellow;
+}
+.col4
+{
+	float: right;
+	margin-right: 50px;
+}
+#f1
+{
+	height: 80px;
+	background-color: #050505;
+	text-align: center;
+}
+#s1
+{
+	text-align-last: right;
+}
